@@ -9,8 +9,6 @@
 当时还是群直播做的  
 可以进入付费模式(当时主流的方法)可以恢复没有付费的模式.  
 
-[2019.2.10]修复了换场风之后立直状态不会掉的bug  
-
 原帖：https://github.com/tyza66/QzoneBlogs/blob/main/pid_0006.pdf
 
 By:tyza66(洮羱芝闇)
