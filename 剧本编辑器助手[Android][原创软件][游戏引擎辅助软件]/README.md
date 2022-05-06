@@ -1,4 +1,5 @@
 # 剧本编辑器助手
+- iApp项目
 - 快捷开发RPG游戏工具
 - 半成品
 - 之后并没有完全做完
@@ -15,6 +16,7 @@
 8.启动剧本编辑器：一键快捷跳转到剧本编辑器。  
 [2020.7.16]测试版1  
 
-原帖：https://github.com/tyza66/QzoneBlogs/blob/main/pid_0020.pdf
+原帖：https://github.com/tyza66/QzoneBlogs/blob/main/pid_0020.pdf  
+开源地址：https://github.com/tyza66/ScriptEditorHelper
 
 By:tyza66(洮羱芝闇)  
